@@ -1,2 +1,3 @@
-# blueprinthack
+# Blueprint Hackathon
+
 Blueprint Hackathon
