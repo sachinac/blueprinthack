@@ -10,3 +10,6 @@ Supporting Notebook
 
 <a href="https://github.com/sachinac/blueprinthack/blob/main/Prepare_LibraryData.ipynb"> Prepare_LibraryData.ipynb </a>
 
+Youtube Video
+
+<a href="https://youtu.be/Ga3XMHlvuWc"> click here </a> to watch presentation.
