@@ -4,7 +4,7 @@ Blueprint Hackathon
 
 Main Notebook 
 
-<a href="discover_notebook.html"> discover_notebook.ipynb </a>
+<a href="https://github.com/sachinac/blueprinthack/blob/main/discover_notebook_final.ipynb"> discover_notebook.ipynb </a>
 
 Supporting Notebook
 
